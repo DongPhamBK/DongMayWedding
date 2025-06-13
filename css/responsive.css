@@ -876,6 +876,10 @@ extra small mobile 320px. end
                 text-align: center;
             }
 
+            h2.big span {
+                font-size: 20px;
+            }
+
             .clock-area {
                 margin-top: -50px;
             }
