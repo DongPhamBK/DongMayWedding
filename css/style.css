@@ -380,7 +380,7 @@ slider-area
 }
 
 .single-slider {
-    background: url(../img/slider/slide1.jpg) no-repeat center center / cover;
+    background: url(../img/slider/slide1.JPG) no-repeat center center / cover;
     display: flex;
     justify-content: center;
     flex-direction: column;
@@ -404,11 +404,11 @@ slider-area
 }
 
 .slider-2 {
-    background: url(../img/slider/slide2.jpg) no-repeat center center / cover;
+    background: url(../img/slider/slide2.JPG) no-repeat center center / cover;
 }
 
 .slider-3 {
-    background: url(../img/slider/slide3.jpg) no-repeat center center / cover;
+    background: url(../img/slider/slide3.JPG) no-repeat center center / cover;
 }
 
 .single-slider2 {
@@ -1139,7 +1139,7 @@ welcome-area
 =================================*/
 
 .welcome-area {
-    background: linear-gradient(rgba(0, 0, 0, 0.81), rgba(100, 158, 147, 0.81)), transparent url(../img/background1.JPG) no-repeat center center / cover fixed;
+    background: linear-gradient(rgba(0, 0, 0, 0.81), rgba(100, 158, 147, 0.81)), transparent url(../img/background1.jpg) no-repeat center center / cover fixed;
     padding-top: 45px;
     padding-bottom: 45px;
 }
@@ -1623,7 +1623,7 @@ home-page2
 .slider-content2 h4 {
     font-size: 72px;
     font-family: 'Great Vibes', cursive;
-    background: url(../img/slider/2.png) no-repeat center center / cover;
+    /* background: url(../img/slider/2.png) no-repeat center center / cover; */
     padding: 54px;
     width: 657px;
     height: 200px;
@@ -1699,7 +1699,7 @@ home-page2
 }
 
 .welcome-area2 {
-    background: url(../img/guest/slide2.jpg) no-repeat center center / cover;
+    background: url(../img/background1.jpg) no-repeat center center / cover;
     position: relative;
     background-attachment: fixed;
 }

@@ -344,7 +344,7 @@ extra small mobile 320px.
             }
 
             .slider-content h4 {
-                font-size: 40px;
+                font-size: 28px;
             }
 
             .slider-content p {
@@ -870,6 +870,14 @@ extra small mobile 320px. end
 
             .story .item .story-content {
                 padding: 15px;
+            }
+
+            .section-area {
+                text-align: center;
+            }
+
+            .clock-area {
+                margin-top: -50px;
             }
 
             .count-down-area {
